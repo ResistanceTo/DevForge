@@ -9,10 +9,18 @@ import SwiftUI
 
 // 定义差异对比的模式
 enum DiffStyle: String, CaseIterable, Identifiable {
-    case characters = "By Characters"
-    case words = "By Words"
-    case lines = "By Lines"
+    case characters
+    case words
+    case lines
     var id: Self { self }
+
+    var title: LocalizedStringKey {
+        switch self {
+        case .characters: "By Characters"
+        case .words: "By Words"
+        case .lines: "By Lines"
+        }
+    }
 }
 
 struct TextDiffView: View {
@@ -51,7 +59,7 @@ struct TextDiffView: View {
             Text("Diff Style").font(.headline).foregroundColor(.secondary)
             Picker("", selection: self.$diffStyle) {
                 ForEach(DiffStyle.allCases) { style in
-                    Text(style.rawValue).tag(style)
+                    Text(style.title).tag(style)
                 }
             }
             .pickerStyle(.segmented)

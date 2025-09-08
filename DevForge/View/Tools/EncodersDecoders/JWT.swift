@@ -35,7 +35,7 @@ struct JWTEncoderDecoderView: View {
     var body: some View {
         VStack(alignment: .leading, spacing: 16) {
             EditorLayoutView(
-                title: "JSON Web Token (JWT)",
+                title: "Input",
                 text: self.$inputText,
                 pasteAction: { Utils.paste(self.$inputText) },
                 clearAction: { Utils.clear(self.$inputText) }

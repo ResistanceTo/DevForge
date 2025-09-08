@@ -40,7 +40,7 @@ struct TextRegexView: View {
             
             TwoTieredLayout {
                 EditorLayoutView(
-                    title: "Test String",
+                    title: "Input",
                     text: $testString,
                     pasteAction: { Utils.paste($testString) },
                     clearAction: {

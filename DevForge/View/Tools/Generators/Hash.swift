@@ -41,7 +41,7 @@ struct HashGeneratorView: View {
         // VStack 和 EditorLayoutView 的部分保持不变
         VStack(alignment: .leading, spacing: 16) {
             EditorLayoutView(
-                title: "Input Text",
+                title: "Input",
                 text: $inputText,
                 pasteAction: { Utils.paste($inputText) },
                 clearAction: { Utils.clear($inputText) }

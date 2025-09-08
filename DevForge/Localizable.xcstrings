@@ -8,7 +8,14 @@
       "shouldTranslate" : false
     },
     "%lld characters" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 字符"
+          }
+        }
+      }
     },
     "%lld of %lld visible" : {
       "localizations" : {
@@ -31,7 +38,14 @@
       }
     },
     "Amount: %lld" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数量： %lld"
+          }
+        }
+      }
     },
     "Appearance" : {
       "localizations" : {
@@ -42,9 +56,6 @@
           }
         }
       }
-    },
-    "As a token of my appreciation, you can choose a special app icon:" : {
-
     },
     "Base64" : {
       "shouldTranslate" : false
@@ -59,14 +70,95 @@
         }
       }
     },
+    "By Characters" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按字符"
+          }
+        }
+      }
+    },
+    "By Lines" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按行"
+          }
+        }
+      }
+    },
+    "By Words" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "按词"
+          }
+        }
+      }
+    },
+    "Bytes" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字节"
+          }
+        }
+      }
+    },
     "Calculated Checksum" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "校验和"
+          }
+        }
+      }
     },
     "Case Insensitive" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不区分大小写"
+          }
+        }
+      }
+    },
+    "Characters" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "字符"
+          }
+        }
+      }
     },
     "Checksum will appear here" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "校验和将显示在此处"
+          }
+        }
+      }
+    },
+    "Choose your favorite app icon to personalize your DevForge experience:" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "选择您最喜爱的应用图标，个性化您的DevForge体验："
+          }
+        }
+      }
     },
     "Clear" : {
       "localizations" : {
@@ -79,10 +171,24 @@
       }
     },
     "Click 'Generate' to create UUIDs." : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点击“生成”按钮创建UUID。"
+          }
+        }
+      }
     },
     "Compare With" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "校验"
+          }
+        }
+      }
     },
     "Configuration" : {
       "localizations" : {
@@ -94,17 +200,35 @@
         }
       }
     },
-    "Content" : {
-
-    },
     "Control which tools appear in the sidebar" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "控制侧边栏中显示的工具"
+          }
+        }
+      }
     },
     "Converted Formats" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换格式"
+          }
+        }
+      }
     },
     "Converted Values" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换结果"
+          }
+        }
+      }
     },
     "Converters" : {
       "localizations" : {
@@ -147,10 +271,24 @@
       }
     },
     "Count: %lld" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "数量: %lld"
+          }
+        }
+      }
     },
     "Customize the appearance of the application" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自定义应用程序的外观"
+          }
+        }
+      }
     },
     "Dark" : {
       "localizations" : {
@@ -173,19 +311,40 @@
       }
     },
     "Decoded Content (%lld)" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解码内容 (%lld)"
+          }
+        }
+      }
     },
     "Decoded URL" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解码后的URL"
+          }
+        }
+      }
     },
     "Decoding Failed" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Decoding Failed"
+          }
+        }
+      }
     },
     "DemoSponsorView" : {
-
+      "shouldTranslate" : false
     },
     "DemoThankYouView" : {
-
+      "shouldTranslate" : false
     },
     "Deserialization Failed" : {
       "localizations" : {
@@ -198,10 +357,24 @@
       }
     },
     "DevForge is a powerful toolkit designed for developers, providing a collection of essential utilities to streamline your daily workflow." : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "DevForge 是一款专为开发者打造的强大工具包，提供一系列必备实用工具，助您优化日常工作流程。"
+          }
+        }
+      }
     },
     "Diff Style" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "风格"
+          }
+        }
+      }
     },
     "Done" : {
       "localizations" : {
@@ -214,10 +387,24 @@
       }
     },
     "Dot Matches Newlines" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点匹配换行符"
+          }
+        }
+      }
     },
     "Encoded URL" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "编码后的URL"
+          }
+        }
+      }
     },
     "Encoders / Decoders" : {
       "localizations" : {
@@ -230,16 +417,55 @@
       }
     },
     "Enter a valid URL to see its components." : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入有效的URL以查看其组成部分。"
+          }
+        }
+      }
     },
     "Enter your regular expression here" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在此处输入您的正则表达式"
+          }
+        }
+      }
     },
     "Failed to convert file address" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件地址转换失败"
+          }
+        }
+      }
     },
     "File" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件"
+          }
+        }
+      }
+    },
+    "File Checksum" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文件校验和"
+          }
+        }
+      }
     },
     "File not found" : {
       "localizations" : {
@@ -261,6 +487,16 @@
         }
       }
     },
+    "Formatter" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "格式化"
+          }
+        }
+      }
+    },
     "Formatters" : {
       "localizations" : {
         "zh-Hans" : {
@@ -272,10 +508,14 @@
       }
     },
     "Generate" : {
-
-    },
-    "Generated Results (%lld)" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生成"
+          }
+        }
+      }
     },
     "Generators" : {
       "localizations" : {
@@ -287,17 +527,41 @@
         }
       }
     },
+    "GitHub" : {
+      "shouldTranslate" : false
+    },
     "Graphic" : {
 
     },
     "Group %lld:" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "组 %lld:"
+          }
+        }
+      }
     },
     "Hash Algorithm" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "哈希算法"
+          }
+        }
+      }
     },
     "Hash Results" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "哈希结果"
+          }
+        }
+      }
     },
     "Hexadecimal" : {
       "localizations" : {
@@ -320,22 +584,64 @@
       }
     },
     "HTML Entities" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "HTML实体"
+          }
+        }
+      }
     },
     "Include Hyphens (-)" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "包含连字符（-）"
+          }
+        }
+      }
     },
     "Information" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "信息"
+          }
+        }
+      }
     },
     "Input" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入"
+          }
+        }
+      }
     },
     "Input 1" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入 1"
+          }
+        }
+      }
     },
     "Input 2" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "输入 2"
+          }
+        }
+      }
     },
     "Input JSON" : {
       "extractionState" : "manual",
@@ -348,17 +654,8 @@
         }
       }
     },
-    "Input Text" : {
-
-    },
-    "Input Time" : {
-
-    },
     "Interpreted Claims" : {
-
-    },
-    "JSON Web Token (JWT)" : {
-
+      "shouldTranslate" : false
     },
     "Light" : {
       "localizations" : {
@@ -366,6 +663,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "明亮"
+          }
+        }
+      }
+    },
+    "Lines" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "行"
           }
         }
       }
@@ -380,20 +687,52 @@
         }
       }
     },
+    "Lorem Ipsum" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "哑元文本"
+          }
+        }
+      }
+    },
     "Match Results (%lld)" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "匹配结果 (%lld)"
+          }
+        }
+      }
     },
     "Media" : {
 
     },
     "No capture groups found." : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到捕获组。"
+          }
+        }
+      }
     },
     "No QR code detected yet." : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "尚未检测到二维码。"
+          }
+        }
+      }
     },
     "Now" : {
-
+      "shouldTranslate" : false
     },
     "Octal" : {
       "localizations" : {
@@ -401,6 +740,16 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "八进制"
+          }
+        }
+      }
+    },
+    "Official Website" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "官网"
           }
         }
       }
@@ -426,7 +775,14 @@
       }
     },
     "Parsed Components" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解析输出"
+          }
+        }
+      }
     },
     "Paste" : {
       "localizations" : {
@@ -439,10 +795,24 @@
       }
     },
     "Paste a checksum to compare" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "粘贴校验和进行比较"
+          }
+        }
+      }
     },
     "Paste a JWT in the field above to see the decoded results." : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在上面字段中粘贴一个JWT，即可查看解码结果。"
+          }
+        }
+      }
     },
     "Plain Text" : {
       "localizations" : {
@@ -475,7 +845,14 @@
       }
     },
     "Query Parameters (%lld)" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查询参数 (%lld)"
+          }
+        }
+      }
     },
     "Range: %lld-%lld" : {
       "localizations" : {
@@ -484,14 +861,55 @@
             "state" : "new",
             "value" : "Range: %1$lld-%2$lld"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "范围: %1$lld-%2$lld"
+          }
+        }
+      }
+    },
+    "Regex" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正则"
+          }
         }
       }
     },
     "Regex Cheatsheet" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正则表达式速查表"
+          }
+        }
+      }
     },
     "Regular Expression" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正则表达式"
+          }
+        }
+      }
+    },
+    "Results (%lld)" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "结果 (%lld)"
+          }
+        }
+      }
     },
     "Save As..." : {
       "localizations" : {
@@ -513,25 +931,25 @@
         }
       }
     },
-    "Select a tool" : {
-      "extractionState" : "stale",
+    "Select Color" : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "选择一个工具"
+            "value" : "选择颜色"
           }
         }
       }
     },
-    "Select Color" : {
-
-    },
-    "Select Date" : {
-
-    },
     "Select or drop a file here" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "在此处选择或拖放文件"
+          }
+        }
+      }
     },
     "Serialization Failed" : {
       "localizations" : {
@@ -544,29 +962,21 @@
       }
     },
     "Signature" : {
-
-    },
-    "Signature cannot be verified without the secret key." : {
-
-    },
-    "Sponsor" : {
-      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "赞助"
+            "value" : "签名"
           }
         }
       }
     },
-    "Sponsor DevForge" : {
-      "extractionState" : "stale",
+    "Signature cannot be verified without the secret key." : {
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "赞助 DevForge"
+            "value" : "没有私钥就无法验证签名。"
           }
         }
       }
@@ -581,8 +991,15 @@
         }
       }
     },
-    "Supporter Exclusive" : {
-
+    "Supporter Exclusive Icons" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持者专属图标"
+          }
+        }
+      }
     },
     "System" : {
       "localizations" : {
@@ -595,24 +1012,31 @@
       }
     },
     "Technology Stack" : {
-
-    },
-    "Test String" : {
-
-    },
-    "Text" : {
-
-    },
-    "Thank You for Your Support!" : {
-
-    },
-    "Thanks" : {
-      "extractionState" : "stale",
       "localizations" : {
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "感谢支持"
+            "value" : "技术栈"
+          }
+        }
+      }
+    },
+    "Text" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本"
+          }
+        }
+      }
+    },
+    "Thank You for Your Support!" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "感谢您的支持！"
           }
         }
       }
@@ -628,7 +1052,24 @@
       }
     },
     "Toggle Layout" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "切换布局"
+          }
+        }
+      }
+    },
+    "ToolCategory.Text" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文本类"
+          }
+        }
+      }
     },
     "Tools" : {
       "localizations" : {
@@ -641,7 +1082,14 @@
       }
     },
     "Transform" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "转换"
+          }
+        }
+      }
     },
     "Type" : {
       "localizations" : {
@@ -657,16 +1105,34 @@
 
     },
     "Unsupported file type or failed to access file" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不支持的文件类型或无法访问文件"
+          }
+        }
+      }
     },
     "Uppercase (A-Z)" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大写"
+          }
+        }
+      }
     },
     "Uppercase Output" : {
-
-    },
-    "URL String" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大写输出"
+          }
+        }
+      }
     },
     "Version %@ (%@)" : {
       "localizations" : {
@@ -675,17 +1141,44 @@
             "state" : "new",
             "value" : "Version %1$@ (%2$@)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版本 %1$@ (%2$@)"
+          }
         }
       }
     },
     "Waiting for Input" : {
-
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "等待输入"
+          }
+        }
+      }
     },
-    "Your sponsorship is the greatest motivation for me to continue developing and maintaining DevForge." : {
-
+    "Words" : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "词"
+          }
+        }
+      }
     },
-    "格式化数字" : {
-
+    "Your sponsorship is the greatest motivation for me to continue developing and maintaining DevForge. As a token of appreciation, you can choose from these exclusive app icons." : {
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "您的赞助是我持续开发和维护DevForge的最大动力。作为感谢，您可以从这些专属应用图标中任选其一。"
+          }
+        }
+      }
     }
   },
   "version" : "1.0"

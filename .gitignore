@@ -1,4 +1,5 @@
 *.xcuserdatad
 SponsorView.swift
 SponsorManager.swift
+ThankYouView.swift
 */Assets.xcassets/Sponsor/**

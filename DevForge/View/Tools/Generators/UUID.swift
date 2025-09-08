@@ -70,7 +70,7 @@ struct UUIDGeneratorView: View {
         if !generatedUUIDs.isEmpty {
             VStack(alignment: .leading) {
                 HStack {
-                    Text("Generated Results (\(generatedUUIDs.count))")
+                    Text("Results (\(generatedUUIDs.count))")
                         .font(.headline)
                         .foregroundColor(.secondary)
                     Spacer()

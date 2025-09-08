@@ -23,7 +23,7 @@ struct URLFormatterView: View {
         VStack(alignment: .leading, spacing: 16) {
             // 输入区域
             EditorLayoutView(
-                title: "URL String",
+                title: "Input",
                 text: $inputText,
                 pasteAction: { Utils.paste($inputText) },
                 clearAction: { Utils.clear($inputText) }

@@ -88,12 +88,12 @@ struct TimeConverterView: View {
     /// 输入控制区域
     private var inputSection: some View {
         VStack(alignment: .leading) {
-            Text("Input Time")
+            Text("Input")
                 .font(.headline)
                 .foregroundColor(.secondary)
 
             HStack(spacing: 12) {
-                DatePicker("Select Date", selection: $selectedDate)
+                DatePicker("", selection: $selectedDate)
                     .datePickerStyle(.graphical)
                     .labelsHidden()
                 

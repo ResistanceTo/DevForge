@@ -19,7 +19,7 @@ struct AboutView: View {
     
     // MARK: - Tech Stack
     
-    let techStack = ["SwiftUI", "CryptoKit", "Combine", "Vision", "CoreImage", "AppKit"]
+    let techStack = ["SwiftUI", "CryptoKit", "CommonCrypto", "Combine", "Vision", "CoreImage", "AppKit"]
 
     var body: some View {
         VStack(spacing: 24) {
@@ -78,7 +78,7 @@ struct AboutView: View {
                 )
                 
                 LinkButton(
-                    title: "GitHub Repository",
+                    title: "GitHub",
                     icon: "chevron.left.forwardslash.chevron.right",
                     url: URL(string: "https://github.com/ResistanceTo/DevForge")!
                 )
@@ -105,7 +105,7 @@ struct AboutView: View {
 // MARK: - 可复用的链接按钮
 
 private struct LinkButton: View {
-    let title: String
+    let title: LocalizedStringKey
     let icon: String
     let url: URL
     

@@ -111,7 +111,7 @@ struct TextTransformationView: View {
     }
     
     /// 可复用的信息展示项
-    private func infoItem(title: String, value: String) -> some View {
+    private func infoItem(title: LocalizedStringKey, value: String) -> some View {
         VStack(alignment: .leading) {
             Text(title).font(.caption).foregroundColor(.secondary)
             Text(value).font(.system(.body, design: .monospaced)).fontWeight(.semibold)

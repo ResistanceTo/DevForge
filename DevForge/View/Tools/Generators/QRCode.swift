@@ -46,7 +46,7 @@ struct QRCodeGeneratorView: View {
     /// 输入区域的视图
     private var inputSection: some View {
         VStack(alignment: .leading, spacing: 8) {
-            Text("Content")
+            Text("Input")
                 .font(.headline)
                 .foregroundColor(.secondary)
             

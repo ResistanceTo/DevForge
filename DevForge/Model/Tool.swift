@@ -26,7 +26,7 @@ enum ToolCategory: String, CaseIterable, Identifiable {
         case .encoders_decoders: "Encoders / Decoders"
         case .formatters: "Formatters"
         case .generators: "Generators"
-        case .text: "Text"
+        case .text: "ToolCategory.Text"
         case .graphic: "Graphic"
         case .media: "Media"
         }

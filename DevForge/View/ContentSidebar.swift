@@ -78,7 +78,7 @@ struct ContentSidebar: View {
                 case .tool(let tool):
                     NavigationLink(value: tool) {
                         Label {
-                            Text(tool.title)
+                            Text(tool.localizedTitle)
                         } icon: {
                             Image(tool.icon)
                                 .resizable() // 让图片可缩放

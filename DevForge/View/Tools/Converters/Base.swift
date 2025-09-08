@@ -86,7 +86,7 @@ struct BaseConverterView: View {
                     .foregroundColor(.secondary)
                     .frame(width: 20)
                 
-                Text("格式化数字")
+                Text("Formatter")
                     .font(.body)
                     .foregroundColor(.primary)
                 
